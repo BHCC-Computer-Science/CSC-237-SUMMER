@@ -6,7 +6,6 @@ A simple C++ program that calculates and displays sales totals including tax.
 
 -   `Ali.cpp`: Contains utility functions for calculating and displaying sales data
 -   `FirstApp.cpp`: Main application file that calls functions from Ali.cpp
--   `build_run.sh`: Shell script to compile and run the program
 
 ### Prerequisites
 
@@ -17,13 +16,22 @@ A simple C++ program that calculates and displays sales totals including tax.
 ### How to Run the Project
 
 1. Navigate to the project directory:
-   `cd CSC-237-SUMMER`
+
+    ```
+    cd CSC-237-SUMMER
+    ```
 
 2. Compile the program:
-   `g++ FirstApp.cpp -o output`
+
+    ```
+    g++ FirstApp.cpp -o output
+    ```
 
 3. Run the executable:
-   `./output`
+
+    ```
+    ./output
+    ```
 
 ### Expected Output
 
